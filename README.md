@@ -1,3 +1,9 @@
+---
+noteId: "af91fb3081f011f1abf50145b1c5c75a"
+tags: []
+
+---
+
 # IA & Fouille de Données - De Zéro à Expert
 
 Ce repository est une formation complète et progressive
