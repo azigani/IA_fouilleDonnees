@@ -25,3 +25,35 @@ Chaque chapitre contient :
 - exercices
 - mini-projets
 - projets industriels
+
+
+
+IA_fouilleDonnees
+│
+├── README.md
+│
+├── 00_Introduction_IA
+│
+├── 01_Python_pour_IA
+│
+├── 02_Numpy
+│
+├── 03_Pandas
+│
+├── 04_Visualisation
+│
+├── 05_Statistiques
+│
+├── 06_Fouille_de_Donnees
+│
+├── 07_Machine_Learning
+│
+├── 08_Deep_Learning
+│
+├── 09_NLP
+│
+├── 10_Vision
+│
+├── 11_IA_Generative
+│
+└── Projets
